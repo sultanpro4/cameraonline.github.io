@@ -3,6 +3,10 @@
 <body>
 
 <h1>My first PHP page</h1>
-<a href="abc.php">Click</a>
+<?php
+echo "Hello World!";
+?>
+
+
 </body>
 </html> 
